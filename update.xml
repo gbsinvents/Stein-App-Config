@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>5.1.2028</latestVersion>
-    <latestVersionCode>6</latestVersionCode>
+    <latestVersionCode>7</latestVersionCode>
     <url>https://github.com/gbsinvents/Stein-App-Config/releases</url>
   </update>
 </AppUpdater>
